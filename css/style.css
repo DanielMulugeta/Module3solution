@@ -1,0 +1,29 @@
+#header-nav {
+  background-color: #a9a9a9;
+  border-radius: 0;
+  border: 0;
+}
+#brandname {
+  color: #000000;
+}
+h3 {
+  text-align: center;
+}
+.menu {
+  background-color: #a9a9a9;
+}
+#nav-list {
+  text-align: center;
+  margin-top: 0;
+}
+
+#mydropdown {
+  background: #ffffff;
+}
+#mydropdown #nav-list li {
+  border: 1px solid black;
+}
+#mydropdown #nav-list li a {
+  background-color: #ffffff;
+  padding: 0;
+}
